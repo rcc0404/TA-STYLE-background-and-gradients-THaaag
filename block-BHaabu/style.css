@@ -86,8 +86,7 @@ h1 {
 }
 .box4 {
     /* background:linear-gradient(to right, black, #FF0248), url(nature.jpg) no-repeat ; */
-    background: url(nature.jpg) no-repeat;
-    opacity: 0.6;
+    background: linear-gradient(to right bottom, transparent, rgba(237,20,62,0.6)), url(./nature.jpg);
     height: 400px;
     background-position: 50% 50%;
     width: 100%;
